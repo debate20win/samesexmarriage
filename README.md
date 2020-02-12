@@ -20,7 +20,7 @@
 4. [焦安溥 (張懸) 11 月 28 日「同性婚姻法制化」公聽會 列席發言全程](https://www.bilibili.com/video/av7303069?from=search&seid=17640614696109733606)
 5. [尚小禹：我选择同性婚姻的理由是什么？| 一刻 ·演讲](https://www.bilibili.com/video/av34537503?from=search&seid=9614911549046827106)
 6. [【演讲】爱尔兰前总统玛丽麦卡利斯：我的家人为何为同性婚姻投上赞成一票（生肉）](https://www.bilibili.com/video/av28990743?from=search&seid=9614911549046827106)
-7.[法工委：有群众意见建议“同性婚姻合法化”写入民法典](https://baijiahao.baidu.com/s?id=1653423526849656622&wfr=spider&for=pc)
+7. [法工委：有群众意见建议“同性婚姻合法化”写入民法典](https://baijiahao.baidu.com/s?id=1653423526849656622&wfr=spider&for=pc)
 
 #### 论文
 1. [Religion and Public Opinion about Same-Sex Marriage (Cited by 537) 2006](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-6237.2006.00384.x?casa_token=3xa2NTXtNCcAAAAA:rVIkh4YdvfCgsdNkn-ubtHw2m4gtxEAX9rmN8uwV1qKF6fb306sodo-gQUHQ-2usKVzF0dZ2-dnWIR0)
