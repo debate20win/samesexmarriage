@@ -1,2 +1,6 @@
-# samesexmarriage
-The repo for the first competition of 青训.
+## 同性婚姻中国合法化问题
+本仓库用以存储第一场比赛资料。
+
+对方辩友我不信你会上github搜索。
+
+## 格式
