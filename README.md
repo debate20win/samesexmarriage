@@ -29,3 +29,6 @@
 2. [A history of Same-Sex marriage (Cited by 458) 1993](./resources/A history of Same-Sex marriage.pdf) (in the "resources" folder)
 3. 
 
+#### 公众号
+
+1. 淡蓝（搜索公众号）
