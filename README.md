@@ -13,4 +13,6 @@
 -------------
 ------------
 ### 资料（未整理）
-1. 哈佛法学院同性婚姻辩论：https://www.bilibili.com/video/av8254851?from=search&seid=10286136649417855496
+1. [哈佛法学院同性婚姻辩论](https://www.bilibili.com/video/av8254851?from=search&seid=10286136649417855496)
+2. [2019年5月亚洲首批同性恋婚姻（半娱乐向）](https://www.bilibili.com/video/av66622111?from=search&seid=17640614696109733606)
+3. [焦安溥 (張懸) 11 月 28 日「同性婚姻法制化」公聽會 列席發言全程](https://www.bilibili.com/video/av7303069?from=search&seid=17640614696109733606)
