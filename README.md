@@ -26,9 +26,10 @@
 
 #### 论文
 1. [Religion and Public Opinion about Same-Sex Marriage (Cited by 537) 2006](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-6237.2006.00384.x?casa_token=3xa2NTXtNCcAAAAA:rVIkh4YdvfCgsdNkn-ubtHw2m4gtxEAX9rmN8uwV1qKF6fb306sodo-gQUHQ-2usKVzF0dZ2-dnWIR0)
-2. [A history of Same-Sex marriage (Cited by 458) 1993](./resources/A history of Same-Sex marriage.pdf) (in the "resources" folder)
+2. [A history of Same-Sex marriage (Cited by 458) 1993](./resources/A history of Same-Sex marriage.pdf)   (in the "resources" folder)
 3. 
 
 #### 公众号
 
 1. 淡蓝（搜索公众号）
+2. LGBT权促会（搜索公众号）
