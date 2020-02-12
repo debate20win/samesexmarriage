@@ -14,12 +14,13 @@
 ------------
 ### 资料（未整理）
 #### 视频资料
-1. [哈佛法学院同性婚姻辩论](https://www.bilibili.com/video/av8254851?from=search&seid=10286136649417855496)
-2. [2019年5月亚洲首批同性恋婚姻（半娱乐向）](https://www.bilibili.com/video/av66622111?from=search&seid=17640614696109733606)
-3. [焦安溥 (張懸) 11 月 28 日「同性婚姻法制化」公聽會 列席發言全程](https://www.bilibili.com/video/av7303069?from=search&seid=17640614696109733606)
-4. [尚小禹：我选择同性婚姻的理由是什么？| 一刻 ·演讲](https://www.bilibili.com/video/av34537503?from=search&seid=9614911549046827106)
-5. [【演讲】爱尔兰前总统玛丽麦卡利斯：我的家人为何为同性婚姻投上赞成一票（生肉）](https://www.bilibili.com/video/av28990743?from=search&seid=9614911549046827106)
-6.
+1. [2014长江大学辩论表演赛](https://v.youku.com/v_show/id_XODA0NjIyNjQ4.html?refer=seo_operation.liuxiao.liux_00003303_3000_Qzu6ve_19042900)
+2. [哈佛法学院同性婚姻辩论](https://www.bilibili.com/video/av8254851?from=search&seid=10286136649417855496)
+3. [2019年5月亚洲首批同性恋婚姻（半娱乐向）](https://www.bilibili.com/video/av66622111?from=search&seid=17640614696109733606)
+4. [焦安溥 (張懸) 11 月 28 日「同性婚姻法制化」公聽會 列席發言全程](https://www.bilibili.com/video/av7303069?from=search&seid=17640614696109733606)
+5. [尚小禹：我选择同性婚姻的理由是什么？| 一刻 ·演讲](https://www.bilibili.com/video/av34537503?from=search&seid=9614911549046827106)
+6. [【演讲】爱尔兰前总统玛丽麦卡利斯：我的家人为何为同性婚姻投上赞成一票（生肉）](https://www.bilibili.com/video/av28990743?from=search&seid=9614911549046827106)
+7.
 
 #### 论文
 1. [Religion and Public Opinion about Same-Sex Marriage (Cited by 537) 2006](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-6237.2006.00384.x?casa_token=3xa2NTXtNCcAAAAA:rVIkh4YdvfCgsdNkn-ubtHw2m4gtxEAX9rmN8uwV1qKF6fb306sodo-gQUHQ-2usKVzF0dZ2-dnWIR0)
