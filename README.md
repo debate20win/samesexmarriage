@@ -60,9 +60,11 @@
 ### 知乎
 1. [婚姻制度在现代的意义是什么](https://www.zhihu.com/question/32140107)
 2. [为什么越来越多的年轻人不想结婚了](https://www.zhihu.com/question/28245561/answer/40197477)
+3. [同性恋符合生物学规律吗？](https://www.zhihu.com/question/20985115/answer/16805738) 
 
 ### 网络文章
 1. [美国同性恋婚姻合法之路 (2015.6.30)](http://history.people.com.cn/n/2015/0630/c372326-27229638.html)
+2. [The Evolutionary Mystery of Homosexuality](https://www.chronicle.com/article/The-Evolutionary-Mystery-of/135762/)
 
 ### 公众号
 
@@ -80,3 +82,5 @@
 4. **性取向与种族不同，哪个区别更大？**如果种族区别大于性取向区别，那么种族平权都实现了，性取向不同平权为何不能实现？
 
 5. **婚姻的意义**同性恋在人类生存受到重大威胁、人口不足时的确有其危险性，但现代社会人口甚至过多，难道应收歧视？
+
+6. **同性恋的生物学基础？** 同性恋通过帮助同族类其他人的后代提高生存几率，以此提高种群延续几率，因而是合乎自然的。（知乎#3） 
