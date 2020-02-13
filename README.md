@@ -58,7 +58,7 @@
 3. 
 
 ### 书籍
-1. [*福利经济学* 庇古]（https://book.douban.com/subject/2185591/）
+1. [*福利经济学* 庇古](https://book.douban.com/subject/2185591/)
 
 ### 知乎
 1. [婚姻制度在现代的意义是什么](https://www.zhihu.com/question/32140107)
