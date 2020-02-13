@@ -57,6 +57,9 @@
 2. *A history of Same-Sex marriage* (Cited by 458) 1993 (in the "resources" folder)
 3. 
 
+### 书籍
+1. [*福利经济学* 庇古]（https://book.douban.com/subject/2185591/）
+
 ### 知乎
 1. [婚姻制度在现代的意义是什么](https://www.zhihu.com/question/32140107)
 2. [为什么越来越多的年轻人不想结婚了](https://www.zhihu.com/question/28245561/answer/40197477)
