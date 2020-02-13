@@ -50,6 +50,9 @@
 2. *A history of Same-Sex marriage* (Cited by 458) 1993 (in the "resources" folder)
 3. 
 
+### 知乎
+1 [婚姻制度在现代的意义是什么](https://www.zhihu.com/question/32140107)
+
 ### 公众号
 
 1. 淡蓝（搜索公众号）
