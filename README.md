@@ -14,7 +14,6 @@
 5. 要猜猜反方的论吗？
 6. 以上都是在试用，大家不要当真哈哈
 
-
 -------------
 ------------
 ## 资料（未整理）
@@ -72,18 +71,21 @@
 5. *Psychological adjustment, school outcomes, and romantic relationships of adolescents with same-sex parents 2004* (Cited by 443) (in the "resources" folder)
 6. *Religion and public opinion about same-sex marriage 2006* (Cited by 536) (in the "resources" folder)
 7. *children of lebastian and gay parents 2016* (Cited by 336) (in the "resources" folder) 
-8. *Legal recognition of same-sex relationships in the united states-a social science perspective 2006* (Cited by 439) (in the "resources" folder)
-9 .  *Does marriage matter? 1995* (Cited by 1420) (in the "resources" folder)
-10. *We will get what we ask for-why legalizing gaay and lesbian marriage will not 'dismantle the legal structureof gender in every marriage' 1993* (Cited by 487) (in the "resources" folder)
+8. how different are the adult children of parents who have same-sex relationships- Findings from the New Family Structures Study
+9. *Legal recognition of same-sex relationships in the united states-a social science perspective 2006* (Cited by 439) (in the "resources" folder)
+10 .  *Does marriage matter? 1995* (Cited by 1420) (in the "resources" folder)
+11. *We will get what we ask for-why legalizing gaay and lesbian marriage will not 'dismantle the legal structureof gender in every marriage' 1993* (Cited by 487) (in the "resources" folder)
 #### AIDS
-11. [*The immediate effect of the Same-Sex Marriage Prohibition Act on stigma, discrimination, and engagement on HIV prevention and treatment services in men who have sex with men in Nigeria: analysis of prospective data from the TRUST cohort 2016*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4481876/) (Cited by 96)
-12. *Men who have sex with men and HIVA.AIDS in sub-Saharan Africa 2009* （Cited by 358) (in the "resources" folder)
-13. *Sexual culture, HIV transmission, and AIDS research 1991* (Cited by 182) (in the "resources" folder)
+12. [*The immediate effect of the Same-Sex Marriage Prohibition Act on stigma, discrimination, and engagement on HIV prevention and treatment services in men who have sex with men in Nigeria: analysis of prospective data from the TRUST cohort 2016*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4481876/) (Cited by 96)
+13. *Men who have sex with men and HIVA.AIDS in sub-Saharan Africa 2009* （Cited by 358) (in the "resources" folder)
+14. *Sexual culture, HIV transmission, and AIDS research 1991* (Cited by 182) (in the "resources" folder)
 #### Social benefits
-14. *Multiply and replenish-Considering same-sex marriage in light of state interests in marital procreation 2000* (Cited by 168) (in the "resources" folder) 
+15. *Multiply and replenish-Considering same-sex marriage in light of state interests in marital procreation 2000* (Cited by 168) (in the "resources" folder) 
 #### For themselves
-15. *for better or worse-exploring the meaning of same-sex marriage within the lesbian, gay, bisexual and transgenered community 2005* (Cited by 164) (in the "resources" folder)
-16. [Queering Citizenship? Same-sex marriage and the state. 2005](https://muse.jhu.edu/article/179980/pdf?casa_token=yfGH-DJ1ZxEAAAAA:_sWG9clYc2wWMK7b3pe2dmVDi9rHNgednOfiND_0abz8ukxGYvVih-FnIgq2n27V0SAMaXvWhQ) (Cited by 211)
+16. *for better or worse-exploring the meaning of same-sex marriage within the lesbian, gay, bisexual and transgenered community 2005* (Cited by 164) (in the "resources" folder)
+17. [Queering Citizenship? Same-sex marriage and the state. 2005](https://muse.jhu.edu/article/179980/pdf?casa_token=yfGH-DJ1ZxEAAAAA:_sWG9clYc2wWMK7b3pe2dmVDi9rHNgednOfiND_0abz8ukxGYvVih-FnIgq2n27V0SAMaXvWhQ) (Cited by 211)
+
+. 
 ### 书籍
 1. [*福利经济学* 庇古](https://book.douban.com/subject/2185591/)
 
