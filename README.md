@@ -83,7 +83,7 @@
 14. *Multiply and replenish-Considering same-sex marriage in light of state interests in marital procreation 2000* (Cited by 168) (in the "resources" folder) 
 #### For themselves
 15. *for better or worse-exploring the meaning of same-sex marriage within the lesbian, gay, bisexual and transgenered community 2005* (Cited by 164) (in the "resources" folder)
-
+16. [Queering Citizenship? Same-sex marriage and the state. 2005](https://muse.jhu.edu/article/179980/pdf?casa_token=yfGH-DJ1ZxEAAAAA:_sWG9clYc2wWMK7b3pe2dmVDi9rHNgednOfiND_0abz8ukxGYvVih-FnIgq2n27V0SAMaXvWhQ) (Cited by 211)
 ### 书籍
 1. [*福利经济学* 庇古](https://book.douban.com/subject/2185591/)
 
