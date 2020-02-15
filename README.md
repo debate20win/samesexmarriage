@@ -13,6 +13,8 @@
 4. 补足主语（即能解决哪些方面的问题）：同性恋者、异性恋者、社会......（双性恋者好像怎么都帮不到）
 5. 要猜猜反方的论吗？
 6. 以上都是在试用，大家不要当真哈哈
+
+
 -------------
 ------------
 ## 资料（未整理）
@@ -41,7 +43,17 @@
 婚姻本质：是社会责任通过婚姻在社会和个人之间的分配机制
 婚姻不仅仅是两个互相愿意的成人之间的一种私人性安排，而是一种公共认可和同意的形式。马歇尔：“在其真正意义上，在每一个公民的婚姻当中都有三个参与者：两个愿意的配偶，外加一个同意的政府。”婚姻的特征带来了它的荣誉性的一面：“公民的婚姻，是对另一个人的一种深层次的个人承诺；同时也是一种对相互关系、友情、性行为，忠诚和家庭这类理想高度的公共庆祝。”
 ```
+####
+```
+美国儿科学会（American Academy of Pediatrics）在去年3月发布的报告证明了这一对同性婚姻有利的结论。研究小组审视了30年来发布的超过80项研究报告、书籍和论文，得出结论认为：合法的同性婚姻能增强家庭关系并有益于儿童。这一研究结果还得到了美国心理学协会（ American Psychological Association）等顶尖医学机构的赞同。
 
+到目前为止，追踪时间最长的研究是来自名为“国家长期女同性恋家庭研究”的项目。这个研究始于1986年，追踪154个女同性恋家庭中的孩子从婴儿到青少年时期的健康发育情况。其结论是：
+“女同性恋家庭中的17岁的孩子，无论是儿子还是女儿，与异性父母家庭中的同年龄孩子相比，表现出更加优异的社会、学习、总体能力，同时更少出现社会问题、违法犯罪、攻击性等等行为异常。女同性恋家庭的孩子，只要是生下来就由这对母亲抚养，就都展现出健康良好的社会适应力。”
+
+而迄今最大规模的同性家庭抚养的孩子的健康（生理心理）状况研究是由澳大利亚的墨尔本大学做的，共调查315对同性伴侣，500个孩子，结果发现同性家庭的孩子在总体行为、总体健康、家庭关系方面不但很健康，甚至除开社会经济条件的影响后，他们比传统家庭的孩子整体指数要高6%。
+
+弗吉尼亚大学的一项研究曾调查男同性恋家庭长大的儿童的性取向，对12个调查样本中的300多名儿童进行了性取向评估，得出的结果是由同性恋抚养的孩子在性别认同发育方便并无明显失调。
+```
 ### 视频资料
 1. [2014长江大学辩论表演赛](https://v.youku.com/v_show/id_XODA0NjIyNjQ4.html?refer=seo_operation.liuxiao.liux_00003303_3000_Qzu6ve_19042900)
 2. [哈佛法学院同性婚姻辩论](https://www.bilibili.com/video/av8254851?from=search&seid=10286136649417855496)
@@ -55,7 +67,22 @@
 **resources文件夹中现有论文资料！**
 1. [*Religion and Public Opinion about Same-Sex Marriage* (Cited by 537) 2006](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-6237.2006.00384.x?casa_token=3xa2NTXtNCcAAAAA:rVIkh4YdvfCgsdNkn-ubtHw2m4gtxEAX9rmN8uwV1qKF6fb306sodo-gQUHQ-2usKVzF0dZ2-dnWIR0)
 2. *A history of Same-Sex marriage* (Cited by 458) 1993 (in the "resources" folder)
-3. 
+3. *Gay marriage, same-sex parenting and america's children* 2005 (Cited by 143) (in the "resources" folder)
+4. *Searching for harm well being of same-sex marriage and their children 2011* （Cited by 46) (in the "resources" folder)
+5. *Psychological adjustment, school outcomes, and romantic relationships of adolescents with same-sex parents 2004* (Cited by 443) (in the "resources" folder)
+6. *Religion and public opinion about same-sex marriage 2006* (Cited by 536) (in the "resources" folder)
+7. *children of lebastian and gay parents 2016* (Cited by 336) (in the "resources" folder) 
+8. *Legal recognition of same-sex relationships in the united states-a social science perspective 2006* (Cited by 439) (in the "resources" folder)
+9 .  *Does marriage matter? 1995* (Cited by 1420) (in the "resources" folder)
+10. *We will get what we ask for-why legalizing gaay and lesbian marriage will not 'dismantle the legal structureof gender in every marriage' 1993* (Cited by 487) (in the "resources" folder)
+#### AIDS
+11. [*The immediate effect of the Same-Sex Marriage Prohibition Act on stigma, discrimination, and engagement on HIV prevention and treatment services in men who have sex with men in Nigeria: analysis of prospective data from the TRUST cohort 2016*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4481876/) (Cited by 96)
+12. *Men who have sex with men and HIVA.AIDS in sub-Saharan Africa 2009* （Cited by 358) (in the "resources" folder)
+13. *Sexual culture, HIV transmission, and AIDS research 1991* (Cited by 182) (in the "resources" folder)
+#### Social benefits
+14. *Multiply and replenish-Considering same-sex marriage in light of state interests in marital procreation 2000* (Cited by 168) (in the "resources" folder) 
+#### For themselves
+15. *for better or worse-exploring the meaning of same-sex marriage within the lesbian, gay, bisexual and transgenered community 2005* (Cited by 164) (in the "resources" folder)
 
 ### 书籍
 1. [*福利经济学* 庇古](https://book.douban.com/subject/2185591/)
@@ -82,6 +109,7 @@
 ### 网络文章
 1. [美国同性恋婚姻合法之路 (2015.6.30)](http://history.people.com.cn/n/2015/0630/c372326-27229638.html)
 2. [The Evolutionary Mystery of Homosexuality](https://www.chronicle.com/article/The-Evolutionary-Mystery-of/135762/)
+3. [同性恋者可以收养子女吗? ](https://www.sohu.com/a/62640526_116672)
 
 ### 公众号
 
@@ -104,9 +132,18 @@
 
 7. **同性恋婚姻应不应该合法化？应不应该<u>现在</u>合法化？** 换言之，中国是否准备好了？
 
+8. **避免滥交？**长期压抑后的发泄。
 ### 可能的反方观点
 1. **同性婚姻合法化是潘多拉魔盒，打开各种道德沦丧的婚姻形势** 比如一夫多妻、一妻多夫，甚至(······).
 
 2. **立法实施繁琐？**
 
 3. **同性婚姻离婚率高？**
+
+4. **不应该自上而下改造，如此无群众基础？** 第一、现在已经有一定的群众基础。第二、可以增强人们的意识，推到台面上让大家不断讨论。
+
+5. **宣传可以替代合法化？** 第一、***口罩类比***。第二、人们对宣传是健忘的
+
+
+### 引用
+1. 爱情是灵魂与另一个灵魂的相遇，而不是一个器官对另一个器官的反应。
