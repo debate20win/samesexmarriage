@@ -88,6 +88,9 @@
 18. [Queering Citizenship? Same-sex marriage and the state. 2005](https://muse.jhu.edu/article/179980/pdf?casa_token=yfGH-DJ1ZxEAAAAA:_sWG9clYc2wWMK7b3pe2dmVDi9rHNgednOfiND_0abz8ukxGYvVih-FnIgq2n27V0SAMaXvWhQ) (Cited by 211)
 
 . 
+
+19. *Large-scale GWAS reveals insights into the genetic architecture of same-sex sexual behavior 2019*.8 (Cited by 13) (in the "resources" folder) 
+
 ### 书籍
 1. [*福利经济学* 庇古](https://book.douban.com/subject/2185591/)
 2. [*Uncommon Sense-Economic Insights, from Marriage to Terrorism*](https://book.douban.com/subject/5309531/)
