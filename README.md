@@ -79,11 +79,13 @@
 12. [*The immediate effect of the Same-Sex Marriage Prohibition Act on stigma, discrimination, and engagement on HIV prevention and treatment services in men who have sex with men in Nigeria: analysis of prospective data from the TRUST cohort 2016*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4481876/) (Cited by 96)
 13. *Men who have sex with men and HIVA.AIDS in sub-Saharan Africa 2009* （Cited by 358) (in the "resources" folder)
 14. *Sexual culture, HIV transmission, and AIDS research 1991* (Cited by 182) (in the "resources" folder)
+15. [*Global epidemiology of HIV infection in men who have sex with men*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3805037/)
+
 #### Social benefits
-15. *Multiply and replenish-Considering same-sex marriage in light of state interests in marital procreation 2000* (Cited by 168) (in the "resources" folder) 
+16. *Multiply and replenish-Considering same-sex marriage in light of state interests in marital procreation 2000* (Cited by 168) (in the "resources" folder) 
 #### For themselves
-16. *for better or worse-exploring the meaning of same-sex marriage within the lesbian, gay, bisexual and transgenered community 2005* (Cited by 164) (in the "resources" folder)
-17. [Queering Citizenship? Same-sex marriage and the state. 2005](https://muse.jhu.edu/article/179980/pdf?casa_token=yfGH-DJ1ZxEAAAAA:_sWG9clYc2wWMK7b3pe2dmVDi9rHNgednOfiND_0abz8ukxGYvVih-FnIgq2n27V0SAMaXvWhQ) (Cited by 211)
+17. *for better or worse-exploring the meaning of same-sex marriage within the lesbian, gay, bisexual and transgenered community 2005* (Cited by 164) (in the "resources" folder)
+18. [Queering Citizenship? Same-sex marriage and the state. 2005](https://muse.jhu.edu/article/179980/pdf?casa_token=yfGH-DJ1ZxEAAAAA:_sWG9clYc2wWMK7b3pe2dmVDi9rHNgednOfiND_0abz8ukxGYvVih-FnIgq2n27V0SAMaXvWhQ) (Cited by 211)
 
 . 
 ### 书籍
@@ -134,7 +136,13 @@
 
 7. **同性恋婚姻应不应该合法化？应不应该<u>现在</u>合法化？** 换言之，中国是否准备好了？
 
-8. **避免滥交？**长期压抑后的发泄。
+8. **避免艾滋病传播？**
+```
+1. 长期压抑后的发泄。
+2. 澳大利亚、法国、英国、美国，整体HIV感染率下降，但是MSM群体的感染率却上升<sup>15</sup>
+3. 2014年尼加拉通过法律，禁止同性婚姻<sup>12</sup>
+```
+
 ### 可能的反方观点
 1. **同性婚姻合法化是潘多拉魔盒，打开各种道德沦丧的婚姻形势** 比如一夫多妻、一妻多夫，甚至(······).
 
