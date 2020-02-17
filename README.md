@@ -91,6 +91,10 @@
 
 19. *Large-scale GWAS reveals insights into the genetic architecture of same-sex sexual behavior 2019*.8 (Cited by 13) (in the "resources" folder) 
 
+
+
+20. *中国性少数群体生存状况报告* (in the "resources" folder)
+
 ### 书籍
 1. [*福利经济学* 庇古](https://book.douban.com/subject/2185591/)
 2. [*Uncommon Sense-Economic Insights, from Marriage to Terrorism*](https://book.douban.com/subject/5309531/)
