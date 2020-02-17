@@ -127,6 +127,7 @@
 4. [1600万“同妻”的自助与自救](http://www.feizan.com/space-1694-do-blog-id-23730.html) “据张北川估计，中国约有1600万同性恋男性进入婚姻。”
 5. [台湾：至今办理同性结婚1827对，离异34对](http://www.hunjia520.cn/information/46478.html)
 6. [我们探访了中国最大的同性恋公益组织，两个字：吃惊](https://baijiahao.baidu.com/s?id=1603490651086696135&wfr=spider&for=pc)
+7. [烧死那个同性恋](https://www.sohu.com/a/156067256_99921913)
 
 ### 公众号
 
